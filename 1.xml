@@ -116,7 +116,7 @@
 </div>
 <div id="main-menu" class="overlay-screen">
 <div class="menu-container">
-<div class="game-title" id="t-title">diep io - G+</div>
+<div class="game-title" id="t-title">diep io - Classroom Central</div>
 <input type="text" id="player-name" placeholder="Твой никнейм" value="Игрок" maxlength="15" autocomplete="off"/>
 <div class="mode-selector">
 <div class="mode-btn active" data-mode="ffa" id="btn-mode-ffa">Обычный</div>
@@ -592,9 +592,9 @@ const RUSSIAN_NAMES = [
     "holy shit", "Sanya_Pro", "N!GGA", "zxc", "dih", "Мишаня", "pro100", "BrawlStarser", "fuck israel jews", "JIEXA",
     "Гуль", "shadow", "Vovan", "k1ng", "top1", "pepe", "big dih", "Снайпер", "Noob", "ProGamer",
     "DarkKnight", "Ded_Inside", "Toxic", "negger", "Sniper_Wolf", "Alfa", "ronaldo", "Bebra", "Pivozavr", "Kitten",
-    "T-34", "Stalker", "Pelmen", "Bratishka", "Chiter", "Fuck trump", "fuck jews!", "Ghost", "Ninja", "Samurai",
+    "T-34", "Stalker", "Pelmen", "Bratishka", "Chiter", "Fuck trump and netenyahu", "fuck jews!", "Ghost", "Ninja", "Samurai",
     "fuck israel", "Ivan", "Anonim", "GigaChad", "Alex", "Max", "Dima", "Krutoy", "N!GGA JEWS", "Qwerty",
-    "Player1", "Kek", "Lol", "Cheburek", "Шаурма", "Печенька", "tyler", "unblocked games g+", "fuck jews", "Волк"
+    "Player1", "Kek", "Lol", "Cheburek", "Шаурма", "Печенька", "tyler", "unblocked games Classroom Central", "fuck jews", "Волк"
 ];
 
 function spawnBot() { 
